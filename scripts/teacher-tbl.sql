@@ -1,3 +1,4 @@
+-- CREATE TEACHERS TABLE
 CREATE TABLE teachers (
 	id SERIAL,
 	first_name VARCHAR(100),
@@ -24,8 +25,12 @@ VALUES
 	('Chinelo', 'Obi', 'Female', 49000, '2020-07-12'),
 	('Folake', 'Balogun', 'Female', 56500, '2016-04-25'),
 	('Emeka', 'Anyanwu', 'Male', 64000, '2011-10-09'),
-	('Aisha', 'Bello', 'Female', 52000, '2018-01-20'),
-	('Ohenhen', 'Osaze', 'Male', 47500, '2022-03-05'),
+	('Aisha', 'Bello', 'Female', 12000, '2018-01-20'),
+	('Ohenhen', 'Osaze', 'Male', 57500, '2022-03-05'),
+	('Segun', 'Adeyinka', 'Male', 37500, '2022-03-05'),
+	('Adeyemi', 'Adebisi', 'Male', 27500, '2022-03-05'),
+	('Osayi', 'Olumuyiwa', 'Male', 67500, '2022-03-05'),
+	('Peter', 'Osaze', 'Male', 57500, '2022-03-05'),
 	('Ngozi', 'Okoro', 'Female', 69500, '2009-09-14'),
 	('Segun', 'Ajayi', 'Male', 54000, '2016-11-30'),
 	('Hadiza', 'Usman', 'Female', 61000, '2013-08-08'),
