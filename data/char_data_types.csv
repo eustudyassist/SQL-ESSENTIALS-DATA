@@ -1,0 +1,9 @@
+char_dt|varchar_dt|text_dt
+abc       |abc|abc
+qwertyuiop|qwertyuiop|qwertyuiop
+1234      |1234|1234
+-*        |--|**
+abc       |abc|abc
+qwertyuiop|qwertyuiop|qwertyuiop
+1234      |1234|1234
+-*        |--|**

@@ -1,4 +1,4 @@
-class_id,class_name,class_level,school_id,teacher_id
+id,name,level,school_id,teacher_id
 1,Gold,Nur 1,1,14
 2,Silver,Nur 1,2,65
 3,Bronze,Nur 1,3,22
