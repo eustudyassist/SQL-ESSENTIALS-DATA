@@ -1,0 +1,6 @@
+manufacturer_id,brand_name,country
+1,Ford,USA
+2,Honda,Japan
+3,Tesla,USA
+4,Toyota,Japan
+5,BMW,Germany

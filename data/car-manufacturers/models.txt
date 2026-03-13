@@ -1,0 +1,13 @@
+model_id,manufacturer_id,model_name,body_style,price_usd
+101,1,Mustang,Coupe,27000
+102,1,F-150,Truck,34000
+103,1,Explorer,SUV,36000
+104,2,Civic,Sedan,25000
+105,2,Accord,Sedan,28000
+106,2,CR-V,SUV,31000
+107,3,Model 3,Sedan,40000
+108,3,Model Y,SUV,48000
+109,4,Camry,Sedan,26000
+110,4,Corolla,Sedan,22000
+111,5,3 Series,Sedan,43000
+112,5,X5,SUV,61000
