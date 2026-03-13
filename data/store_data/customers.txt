@@ -1,0 +1,5 @@
+customer_id,name,city
+1,Alice,New York
+2,Bob,London
+3,Charlie,Tokyo
+4,Diana,Paris
